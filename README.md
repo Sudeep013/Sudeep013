@@ -40,12 +40,7 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 ### **Algorithm Visualizer Tool**  
 🔍 *Stack:* React, JavaScript, CSS  
 - Developed an interactive tool visualizing search algorithms like A* and Dijkstra.  
-- Enabled shortest path detection with grid-based visualization.  
-
-### **Online Examination System**  
-🎓 *Stack:* Spring Framework, Hibernate, JavaScript  
-- Created a robust platform for conducting secure online exams.  
-- Features include session tracking, randomized question papers, and CRUD operations for question management.  
+- Enabled shortest path detection with grid-based visualization.   
 
 ### **Brand Monitoring and Sentiment Analysis**  
 📈 *Stack:* Python, SVM, Matplotlib  
