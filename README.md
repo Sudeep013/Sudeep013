@@ -8,7 +8,7 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 
 ## 👨‍🎓 **About Me**
 
-- 🎓 **Currently pursuing:** MCA at AKG Engineering College, Ghaziabad (CGPA: 7.9)  
+- 🎓 **Graduated:** MCA at AKG Engineering College, Ghaziabad (CGPA: 7.9)  
 - 🎓 **Graduated:** BCA from INMANTEC Institution, Ghaziabad (73.61%)  
 - 🏠 Based in Vijay Nagar, Ghaziabad  
 
@@ -17,13 +17,13 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 ## 💻 **Technical Skills**
 
 **Languages:**  
-- Python | Java (SE, EE) | JavaScript | SQL  
+- Python | Java (SE, EE) | JavaScript | SQL  | C | C++
 
 **Frameworks & Libraries:**  
-- React | Flask | Spring Framework | Hibernate | Redux  
+- React | Redux | Flask | Spring | Spring Boot| Spring MVC | Spring Security | Spring Framework | Hibernate 
 
 **Tools & Technologies:**  
-- Tableau | PowerBI | Git | VSCode | IntelliJ | PyCharm  
+- Tableau | PowerBI | Git | VSCode | IntelliJ | PyCharm  | Eclipse
 
 **Databases:**  
 - MySQL | SQLite  
@@ -39,7 +39,7 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 
 ### **Algorithm Visualizer Tool**  
 🔍 *Stack:* React, JavaScript, CSS  
-- Developed an interactive tool visualizing search algorithms like BFS and DFS.  
+- Developed an interactive tool visualizing search algorithms like A* and Dijkstra.  
 - Enabled shortest path detection with grid-based visualization.  
 
 ### **Online Examination System**  
@@ -55,9 +55,9 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 ---
 
 ## 📜 **Certifications**
-
+- **Java Full Stack Development(Spring Frameworks, React)** - Cetpa
 - **Java Programming (OOP, File Handling)** - MSME, Govt. of India  
-- **Entrepreneurship-Cum-Skill Development Program**  
+- **Entrepreneurship-Skill Development Program**  
 
 ---
 
