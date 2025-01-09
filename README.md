@@ -28,6 +28,13 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 **Databases:**  
 - MySQL | SQLite  
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,redux,python,flask,java,spring,nodejs,git,kubernetes,docker" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 **Projects**
