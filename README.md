@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there, I'm Sudeep Kumar 👋
 
-<!--
-**Sudeep013/Sudeep013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **A Data Enthusiast and Full-Stack Developer**
 
-Here are some ideas to get you started:
+I am a passionate and curious learner, driven by the challenge of turning data into actionable insights and creating impactful solutions. With expertise in data analytics, visualization, and web development, I enjoy working on diverse projects that blend creativity with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍🎓 **About Me**
+
+- 🎓 **Currently pursuing:** MCA at AKG Engineering College, Ghaziabad (CGPA: 7.9)  
+- 🎓 **Graduated:** BCA from INMANTEC Institution, Ghaziabad (73.61%)  
+- 🏠 Based in Vijay Nagar, Ghaziabad  
+
+---
+
+## 💻 **Technical Skills**
+
+**Languages:**  
+- Python | Java (SE, EE) | JavaScript | SQL  
+
+**Frameworks & Libraries:**  
+- React | Flask | Spring Framework | Hibernate | Redux  
+
+**Tools & Technologies:**  
+- Tableau | PowerBI | Git | VSCode | IntelliJ | PyCharm  
+
+**Databases:**  
+- MySQL | SQLite  
+
+---
+
+## 🚀 **Projects**
+
+### **SEO Dashboard**  
+📊 *Tools:* PowerBI, MS Excel, Python  
+- Built a dynamic dashboard tracking key SEO metrics for actionable insights.  
+- Streamlined data extraction and cleaning using Python.  
+
+### **Algorithm Visualizer Tool**  
+🔍 *Stack:* React, JavaScript, CSS  
+- Developed an interactive tool visualizing search algorithms like BFS and DFS.  
+- Enabled shortest path detection with grid-based visualization.  
+
+### **Online Examination System**  
+🎓 *Stack:* Spring Framework, Hibernate, JavaScript  
+- Created a robust platform for conducting secure online exams.  
+- Features include session tracking, randomized question papers, and CRUD operations for question management.  
+
+### **Brand Monitoring and Sentiment Analysis**  
+📈 *Stack:* Python, SVM, Matplotlib  
+- Analyzed social media mentions and sentiment with a 95.66% accurate SVM model.  
+- Delivered insights through trend visualizations and word clouds.
+
+---
+
+## 📜 **Certifications**
+
+- **Java Programming (OOP, File Handling)** - MSME, Govt. of India  
+- **Entrepreneurship-Cum-Skill Development Program**  
+
+---
+
+## 📫 **Contact Me**
+
+- 📧 Email: [sudeeproy15122000@gmail.com](mailto:sudeeproy15122000@gmail.com)  
+- 🌐 GitHub: [github.com/Sudeep013](https://github.com/Sudeep013)  
+- 📞 Phone: +91 7982218809  
+
