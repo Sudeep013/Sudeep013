@@ -9,7 +9,7 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 ## 👨‍🎓 **About Me**
 
 - 🎓 **Graduated:** MCA at AKG Engineering College, Ghaziabad (CGPA: 7.9)  
-- 🎓 **Graduated:** BCA from INMANTEC Institution, Ghaziabad (73.61%)  
+- 🎓 **Graduated:** BCA from INMANTEC Institution, Ghaziabad (CGPA: 7.8)  
 - 🏠 Based in Vijay Nagar, Ghaziabad  
 
 ---
