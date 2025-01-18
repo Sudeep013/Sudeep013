@@ -37,25 +37,6 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 
 ---
 
-## 🚀 **Projects**
-
-### **SEO Dashboard**  
-📊 *Tools:* PowerBI, MS Excel, Python  
-- Built a dynamic dashboard tracking key SEO metrics for actionable insights.  
-- Streamlined data extraction and cleaning using Python.  
-
-### **Algorithm Visualizer Tool**  
-🔍 *Stack:* React, JavaScript, CSS  
-- Developed an interactive tool visualizing search algorithms like A* and Dijkstra.  
-- Enabled shortest path detection with grid-based visualization.   
-
-### **Brand Monitoring and Sentiment Analysis**  
-📈 *Stack:* Python, SVM, Matplotlib  
-- Analyzed social media mentions and sentiment with a 95.66% accurate SVM model.  
-- Delivered insights through trend visualizations and word clouds.
-
----
-
 ## 📜 **Certifications**
 - **Java Full Stack Development(Spring Frameworks, React)** - Cetpa
 - **Java Programming (OOP, File Handling)** - MSME, Govt. of India  
