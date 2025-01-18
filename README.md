@@ -48,5 +48,5 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 
 - 📧 Email: [sudeeproy15122000@gmail.com](mailto:sudeeproy15122000@gmail.com)  
 - 🌐 GitHub: [github.com/Sudeep013](https://github.com/Sudeep013)  
-- 📞 Phone: +91 7982218809  
+ 
 
