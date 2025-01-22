@@ -38,7 +38,7 @@ I am a passionate and curious learner, driven by the challenge of turning data i
 ---
 
 ## 📜 **Certifications**
-- **Java Full Stack Development(Spring Frameworks, React)** - Cetpa
+- **Java Full Stack Development(Spring Frameworks , React)** - Cetpa
 - **Java Programming (OOP, File Handling)** - MSME, Govt. of India  
 - **Entrepreneurship-Skill Development Program**  
 
